@@ -24,13 +24,12 @@
   "homepage": "https://github.com/sahil2581/comp2156#readme",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
   },
-  `
   "eslintConfig": {
     "extends": "react-app"
   },
